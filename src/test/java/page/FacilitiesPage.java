@@ -127,7 +127,7 @@ public class FacilitiesPage extends Base {
         this.color.sendKeys(color);
     }
     public void clickSave() throws InterruptedException {
-        waitStatic(2);
+        waitStatic(3);
         save.click();
     }
 

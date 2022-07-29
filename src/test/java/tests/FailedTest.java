@@ -11,5 +11,5 @@ import org.junit.runner.RunWith;
                 "json:target/cucumber.json",
                 "html:target/cucumber.html",
                 "rerun:target/rerun.txt"})
-public class FailedTes {
+public class FailedTest {
 }

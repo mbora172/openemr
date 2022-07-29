@@ -28,5 +28,5 @@ Feature:  New Facility
     And user clicks on the save button
     Then verify that the saved Facility should appear on the Facility table with populated-stored data that it been entered
     Examples:
-      | Name | Tax ID | NPI | Billing Address | Mailing Address | Phone | Color |
-      | IWroteFrameAndAutomate | EntireSubTicket   | WithPreSteps  | ItWassHarrdd!!ImSoTired           | SeeYouNextSprint            | By   | hard  |
+      | Name                   | Tax ID          | NPI          | Billing Address         | Mailing Address  | Phone | Color |
+      | IWroteFrameAndAutomate | EntireSubTicket | WithPreSteps | ItWassHarrdd!!ImSoTired | SeeYouNextSprint | By    | hard  |
